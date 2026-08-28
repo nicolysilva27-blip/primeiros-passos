@@ -1,0 +1,14 @@
+.head {
+    background-color: rgb(138, 43, 226);
+    color:black;
+    text-align: center;
+    max-height: 800px;
+    margin: 0 auto;
+}
+ main{
+    background-color: rgb(138, 43, 226);
+    color:rgb(0, 0, 0);
+    text-align: center;
+    max-height: 800px;
+    margin: 0 auto;
+ }   
